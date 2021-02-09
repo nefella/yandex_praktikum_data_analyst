@@ -1,11 +1,13 @@
+![Logo](https://storage.theoryandpractice.ru/tnp/uploads/image_logo/000/037/514/image/base_d0810f76a5.png)
 ## Проекты с курса [Аналитик данных](https://praktikum.yandex.ru/data-analyst/) Яндекс.Практикума
 
 ### Основные инструменты:
-- Языки: Python/pandas, SQL
+- <font color="blue"> Языки: Python/pandas, SQL
 - Анализ данных: pandas, numpy, scipy, statsmodels
 - Машинное обучение: scikit-learn, XGBoost
 - Визуализация: matplotlib, plotly, seaborn, Tableau
 - Парсинг данных: BeautifulSoup, requests
+- Метрики юнит-экономики, когортный анализ</font>
 
 ### Проекты:
 | **№** | **Название проекта** | **Навыки и инструменты** | **Описание проекта**|
