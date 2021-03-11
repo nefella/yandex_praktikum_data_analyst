@@ -1,4 +1,3 @@
-![Logo](https://storage.theoryandpractice.ru/tnp/uploads/image_logo/000/037/514/image/base_d0810f76a5.png)
 ## Проекты с курса [Аналитик данных](https://praktikum.yandex.ru/data-analyst/) Яндекс.Практикума
 
 ### Основные инструменты и навыки:
